@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/2Gpr.mp4)](https://shubham-shrivastav.io)(https://shubham-shrivastav.io)]
+[![MasterHead](https://edutour.tel-aviv.gov.il/wp-content/uploads/2021/04/14700_4_site-hinuch_banner5.gif)]
 <h1 align="center">Hi 👋, I'm Shubham Shrivastav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thaddlaw.com/thaddlaw-images/about/home.gif">
